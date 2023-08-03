@@ -39,5 +39,5 @@ I'm a fullstack developer with good experience developing web applications using
   [![Linkedin](https://img.shields.io/badge/Linkedin-zk?style=for-the-badge&logo=linkedin&color=%230077B5)](https://www.linkedin.com/in/zakaria-khitalishvili/)
   [![Telegram](https://img.shields.io/badge/Telegram-zk?style=for-the-badge&logo=telegram&color=rgba(34%2C%2034%2C%2034%2C%20.84))](https://t.me/zakroKhit)
   [![Email](https://img.shields.io/badge/Email-zk?style=for-the-badge&logo=gmail&color=white)](mailto:z.khitalishvili@gmail.com)
-- Website: [zakro.me](http://zakro.me)
+- 😄 Website: [zakro.me](http://zakro.me)
 
