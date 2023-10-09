@@ -33,11 +33,10 @@ I'm a fullstack developer with good experience developing web applications using
 
 
 
-- 🔭 I’m currently working on Next.js/React
-- 🌱 I’m currently learning React/Next.js/TS.
 - 📫 How to reach me:
   [![Linkedin](https://img.shields.io/badge/Linkedin-zk?style=for-the-badge&logo=linkedin&color=%230077B5)](https://www.linkedin.com/in/zakaria-khitalishvili/)
   [![Telegram](https://img.shields.io/badge/Telegram-zk?style=for-the-badge&logo=telegram&color=rgba(34%2C%2034%2C%2034%2C%20.84))](https://t.me/zakroKhit)
   [![Email](https://img.shields.io/badge/Email-zk?style=for-the-badge&logo=gmail&color=white)](mailto:z.khitalishvili@gmail.com)
 - 😄 Website: [zakro.me](http://zakro.me)
-
+  
+![My GitHub stats](https://github-readme-stats-rust-two.vercel.app/api?username=ZakroKhitalishvili&theme=github_dark&hide_border=true)
