@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Zakaria
-
+![](https://komarev.com/ghpvc/?username=ZakroKhitalishvili)
 <!--
 **ZakroKhitalishvili/ZakroKhitalishvili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
