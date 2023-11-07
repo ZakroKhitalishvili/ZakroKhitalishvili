@@ -40,3 +40,4 @@ I'm a fullstack developer with good experience developing web applications using
 - 😄 Website: [zakro.me](http://zakro.me)
   
 ![My GitHub stats](https://github-readme-stats-rust-two.vercel.app/api?username=ZakroKhitalishvili&theme=github_dark&hide_border=true)
+![Top Langs](https://github-readme-stats-rust-two.vercel.app/api/top-langs/?username=ZakroKhitalishvili&theme=github_dark&hide_border=true)
